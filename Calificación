@@ -1,0 +1,8 @@
+Tarea funciones #2
+
+La función debe devolver el número aleatorio y no imprimirlo. Se imprime desde el main.
+Debe existir una función única para el factorial y otra que calcula la sumatoria de factoriales.
+La impresión de la serie debe ser en el main.
+Le falta el main al ejercicio #2
+
+Calificación: 1.8/2.0
